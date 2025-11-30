@@ -173,4 +173,3 @@ Latency:              2.4 minutes
 * Open the `pharmaintel_kaggle.ipynb` notebook
 * Run all cells (auto-installs dependencies)
 
-Just tell me!
